@@ -240,56 +240,63 @@ Do NOT generate any person or any review text. Minimal premium composition, at l
 
 ---
 
-### تصميم 20 — (#20) صور العملاء من الزيارات
+### تصميم 20 — (#20) صور العملاء من الزيارات → **نسخة "إطلاق" بصور AI**
 
-**المنتج (ظهور بسيط):** زيت زيتون فيرجن نصف لتر بلاستيك — 350 ج.م
+**المنتج:** زيت زيتون فيرجن نصف لتر بلاستيك — 350 ج.م
 🔗 [صفحة المنتج](https://virginiaolive.com/products/%D9%81%D9%8A%D8%B1%D8%AC%D9%8A%D9%86%D9%8A%D8%A7-%D8%B2%D9%8A%D8%AA-%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%81%D9%8A%D8%B1%D8%AC%D9%86-%D9%86%D8%B5%D9%81-%D9%84%D8%AA%D8%B1) • 🖼️ [صورة المنتج](https://cdn.shopify.com/s/files/1/0877/2396/6757/files/Final_0_5.png?v=1786360147)
 
-**الفكرة الكريتيف:** ستايل Hasibe Ana — **Flat-lay من فوق على كتان**: 3 صور مطبوعة بس (مش 6) مرمية بشكل طبيعي، وفرع زيتون، والزجاجة مقصوصة ومايلة من الركن. ألبوم حقيقي وهادي.
+> ⚠️ **ليه الكلام اتغيّر:** الصور هنا AI، فمينفعش الهيدلاين والكابشن يقولوا إنها صور عملائنا ("فيرجينيا من عيون عملائنا" / "الصور اللي شاركها معانا عملاؤنا"). لو حد اكتشف إن "العملاء" مش حقيقيين، بوست الـTrust ده هيخسّركم ثقة بدل ما يكسبها. الحل: البوست يبقى **دعوة** للعملاء يبعتوا صورهم. ولما الصور الحقيقية توصل، تنزلوا البوست الأصلي بيها.
 
-> ⚠️ صور العملاء **حقيقية** وبإذنهم — تتركّب مكان الـPlaceholders.
+**الفكرة:** نفس الـFlat-lay بتاع v2: 3 صور مطبوعة على كتان، بس الصور جواها **لقطات Lifestyle من زيارة معصرة**. مفيش وشوش واضحة: إيدين وضهر وناس من بعيد.
 
 ```
-Top-down flat-lay TEMPLATE, premium editorial photo. Soft cream linen cloth with natural folds on a light stone surface, soft daylight from the top-left.
+Top-down flat-lay, premium editorial photo. Soft cream linen cloth with natural folds on a light stone surface, soft daylight from the top-left.
 
-CONCEPT: three instant-print photos (white borders) casually placed on the linen, slightly overlapping and rotated at natural angles, grouped in the center-left, occupying about 40% of the frame. All three photo areas are EMPTY light-grey placeholders. One small olive sprig tucked under the corner of one print.
-Top-right corner: the Virginia Virgin olive oil 500ml square golden bottle (match reference exactly) lying diagonally, cropped by the frame edge, Hasibe-Ana style.
+CONCEPT: three instant-print photos (white borders) casually placed on the linen, slightly overlapping and rotated at natural angles, grouped center-left, about 40% of the frame. Inside the prints, warm candid lifestyle photos of a visit to an olive oil mill, no clearly visible faces:
+1) hands of a visitor holding fresh green olives over a harvest crate,
+2) a small family seen from behind walking between olive trees at golden hour,
+3) a hand dipping bread into a small bowl of fresh golden-green olive oil at the mill.
+One small olive sprig tucked under the corner of one print.
+Top-right corner: the Virginia Virgin olive oil 500ml square golden bottle (match reference exactly) lying diagonally, cropped by the frame edge.
 
 TEXT (right side, generous margins, bold Arabic):
-Line 1 (dark olive #3E4A1E): "المرة دي..."
-Line 2 (leaf green #6BA322): "فيرجينيا من عيون عملائنا"
-Bottom, small text only: "زرت فيرجينيا قبل كده؟ ابعت لنا صورتك من الزيارة."
+Line 1 (dark olive #3E4A1E): "زرت فيرجينيا قبل كده؟"
+Line 2 (leaf green #6BA322): "صورتك ممكن تبقى هنا"
+Bottom, small text only: "ابعت لنا صورتك من الزيارة."
 Virginia logo small, bottom-left.
 
-Do NOT generate people. Minimal premium composition, at least 40% clean negative space, max 3 text blocks, no icons, no tape, no strings, no clutter. Product packaging identical to the reference image.
+Minimal premium composition, at least 40% clean negative space, max 3 text blocks, no icons, no tape, no strings, no clutter. Product packaging identical to the reference image.
 ```
+**كابشن مقترح:** "كل زيارة للمعصرة ليها لحظة مختلفة.
+زرت فيرجينيا قبل كده؟ ابعت لنا صورتك من الزيارة، وهنجمع صوركم في ألبوم خاص بعيلة فيرجينيا 🤍"
 
 ---
 
-### تصميم 21 — (#21) Customer of the Month
+### تصميم 21 — (#21) Customer of the Month → **نسخة "إطلاق" بصور AI**
 
-**المنتج:** بيظهر **في إيد العميل في صورته** — مفيش منتج منفصل في التصميم (الأنضف). لو الصورة مفيهاش منتج: اكسترا فيرجن ربع لتر زجاج — 200 ج.م
+**المنتج:** زيت زيتون اكسترا فيرجن ربع لتر زجاج — 200 ج.م
 🔗 [صفحة المنتج](https://virginiaolive.com/products/%D8%B2%D9%8A%D8%AA-%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D8%A7%D9%83%D8%B3%D8%AA%D8%B1%D8%A7-%D9%81%D9%8A%D8%B1%D8%AC%D9%86-%D8%B1%D8%A8%D8%B9-%D9%84%D8%AA%D8%B1) • 🖼️ [صورة المنتج](https://cdn.shopify.com/s/files/1/0877/2396/6757/files/V_19_b62326d1-f8cf-48d4-bff7-49558399f0e8.png?v=1786973699)
 
-**الفكرة الكريتيف:** **صورة العميل جوه قوس واحد** (Arch) على حيطة كريمي، وفوقه شعاع ضوء زي الـSpotlight حرفيًا. Badge صغير رفيع. ولا عنصر تاني.
+> ⚠️ **ليه الكلام اتغيّر:** مينفعش نعمل "عميل الشهر" لشخص مولّد بالـAI وباسم مش حقيقي. البوست يبقى **إطلاق للفقرة**: "أول عميل للشهر ممكن يكون انت". والقوس فيه لقطة AI لإيدين ماسكين الزجاجة، من غير وش ولا اسم.
 
-> ⚠️ الصورة والاسم **حقيقيين** وبإذن العميل. Template ثابت كل شهر.
+**الفكرة:** نفس القوس ونفس شعاع الـSpotlight بتوع v2، بس جوه القوس إيدين ماسكين زجاجة فيرجينيا في مطبخ دافي، ومكان الاسم علامة استفهام.
 
 ```
-Premium minimal post TEMPLATE, 1080x1350. Warm cream plaster wall. A single soft beam of golden sunlight falls from the top onto the center like a spotlight; the rest of the wall stays soft and calm, one faint olive-leaf shadow at the edge.
+Premium minimal post, 1080x1350. Warm cream plaster wall. A single soft beam of golden sunlight falls from the top onto the center like a spotlight; the rest of the wall stays soft and calm, one faint olive-leaf shadow at the edge.
 
-HERO (center, ~45% of canvas): one tall arch-shaped frame (rounded top), thin gold edge, soft shadow, EMPTY light-grey placeholder inside for the customer's real photo. The spotlight beam falls on it.
-Top-right of the arch, overlapping its edge: a small refined circular badge — thin gold olive-wreath ring, dark olive center, gold text "Customer of the Month".
+HERO (center, ~45% of canvas): one tall arch-shaped frame (rounded top), thin gold edge, soft shadow. Inside the arch: a warm, candid photo of two hands (no face visible) holding the Virginia Extra Virgin olive oil 250ml dark glass bottle with green cap (match reference exactly) in a cozy sunlit home kitchen, softly blurred background with a wooden board and fresh bread. The spotlight beam falls on the arch.
+Top-right of the arch, overlapping its edge: a small refined circular badge, thin gold olive-wreath ring, dark olive center, gold text "Customer of the Month".
 
 TEXT (below the arch, centered, bold Arabic):
-Line 1 (dark olive #3E4A1E): "كل شهر... واحد من عيلة فيرجينيا"
-Line 2 (gold/bronze #A07C3A): "بياخد الـSpotlight 🤍"
-A small leaf-green name placeholder: "[الاسم]"
-Bottom, small text only: "شاركنا تجربتك أو صورتك مع فيرجينيا... ويمكن تكون أنت الشهر الجاي."
+Line 1 (dark olive #3E4A1E): "كل شهر... واحد من عيلة فيرجينيا بياخد الـSpotlight"
+Line 2 (gold/bronze #A07C3A, larger): "ويمكن تكون أنت 🤍"
+Bottom, small text only: "شاركنا تجربتك أو صورتك مع فيرجينيا."
 Virginia logo small, top-left.
 
-Do NOT generate any person. Minimal premium composition, at least 40% clean negative space, max 3 text blocks, no icons, no extra frames, no clutter.
+No visible faces. Minimal premium composition, at least 40% clean negative space, max 3 text blocks, no icons, no extra frames, no clutter.
 ```
+**كابشن مقترح:** "من الشهر ده هنبدأ فقرة جديدة: كل شهر هنختار واحد من عملائنا نسلط عليه الضوء ونشارك تجربته مع مجتمع فيرجينيا.
+شاركنا تجربتك أو صورتك مع فيرجينيا... ويمكن تكون أنت أول Customer of the Month 🤍"
 
 ---
 
@@ -305,5 +312,5 @@ Do NOT generate any person. Minimal premium composition, at least 40% clean nega
 | 17 | حجر رحاية: نصه جرانيت ونصه ستانلس |
 | 18 | حباية زيتون عملاقة قد الزجاجة بالظبط |
 | 19 | كلام العميل نفسه هو البوست + علامة تنصيص دهبي |
-| 20 | Flat-lay: 3 صور مطبوعة على كتان |
-| 21 | قوس واحد عليه شعاع Spotlight |
+| 20 | Flat-lay: 3 صور مطبوعة على كتان (صور AI + دعوة العملاء يبعتوا صورهم) |
+| 21 | قوس + Spotlight + إيدين ماسكين الزجاجة (إطلاق الفقرة: "يمكن تكون أنت") |
